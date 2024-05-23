@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: orchid;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 50pxpx;
+    width: 50px;
+    align-items: center;
+    margin-left: 10px;
+}
+.homul{
+    list-style: none;
+    display: flex;
+    margin-top: 15px;
+    margin-right: 20px;
+    gap: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid white;
+    padding: 2px;
+    border-radius: 10px;
+    background-color: white;
+}
+.p1{
+    width: 100vw;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: Algerian;
+    font-weight: bolder;
+}
+.tag1{
+    margin-top: 20px;
+    width: 100vw;
+    justify-content: center;
+    text-align: center;
+}
+.tag2{
+    border: 1px solid pink;
+    margin: 40px 80px;
+    padding: 10px;
+    background-color: papayawhip;
+}
+.tag2 p{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.but1{
+    margin-top: 10px;
+    padding-right: 5px;
+    margin-left: 10px;
+}
+.but1 img{
+    height: 100px;
+    width: 100px;
+}
+.but2{
+    margin-bottom: 30px;
+    margin-left: 10px;
+    color: blue;
+}
+footer{
+    background-color: blueviolet;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    font-weight: bold; 
+}
+.right{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+/* about section */
+.owner{
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+.owimg{
+    width: 20%;
+}
+.comP{
+    color: blue;
+}
+.spch{
+    background-color: papayawhip;
+    padding: 10px;
+    margin: 30px;
+}
+.owsp{
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
+.speech{
+    font-size: 20px;
+}
+.goddiv{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.god{
+    text-align: center;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+}
+/* Contact section */
+.cont{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.con{
+    color: blue;
+    font-size: larger;
+    font-weight: bolder;
+}
+u{
+    font-size: 20px;
+    font-weight: bold;
+}
+.conul{
+    margin-top: 10px;
+}
+.conulli{
+    font-weight: bolder;
+}
+.loc{
+    text-align: center;
+}
+.mapp{
+    font-size: 18px;
+    background-color: blue;
+    padding: 5px;
+    color: white;
+}
+.gm{
+    margin-top: 10px;
+}
+/* membership section */
+.memdiv{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: larger;
+}
+.formdiv{
+    margin-bottom: 12%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+
