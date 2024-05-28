@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.navbar{
+  background-color: rgb(240,230,140);
+  padding-bottom: 5px;
+}
+.navbar1{
+    display: flex;
+    gap: 15px;
+    /* margin-top: 10px; */
+    margin: auto;
+}
+.tag{
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.tag4{
+    background-color: bisque;
+    margin: auto;
+    margin-top: 5px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100vw;
+    display: flex;
+    gap: 10px;
+}
+.search{
+  margin: auto;
+  margin-left: 0px;
+  font-weight: lighter;
+}
+.golo{
+  background-color: white;
+  border-radius: 50px;
+  margin: auto;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+.goloimg{
+    width: 20px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.extension{
+  margin: auto;
+  margin-top: 15px;
+  /* margin-right: ; */
+  display: flex;
+  gap: 10px;
+}
+.bar{
+  font-size: 25px;
+  font-weight: bolder;
+  color: azure;
+  margin-right: 10px;
+}
+.perimg{
+  width: 30px;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+.vert{
+  margin: auto;
+  margin-left: 10px;
+}
+.navbar2{
+  display: flex;
+  position: relative;
+}
+.facelogo{
+  width: 30px;
+  margin-left: 10px;
+}
+.facew{
+  position: absolute;
+  top: 7px;
+  left: 40px;
+}
+.facew a{
+  text-decoration: none;
+  color: black;
+}
+.youlogo{
+  position: absolute;
+  left: 110px;
+  width: 40px;
+}
+.youw{
+  position: absolute;
+  top: 7px;
+  left: 150px;
+}
+.youw a{
+  text-decoration: none;
+  color: black;
+}
+.bar2{
+  position: absolute;
+  left: 77%;
+  top: 5px;
+}
+.bar2 p{
+  font-size: 24px;
+  font-weight: bolder;
+  color: azure;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.file{
+  position: absolute;
+  left: 79%;
+  top: 10px;
+}
+.allbook{
+  position: absolute;
+  left: 83%;
+  top: 15px;
+  font-size: 14px;
+}
+.goo{
+  margin: auto;
+  /* margin-top: 50px; */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+.goo img{
+  width: 300px;
+}
+.mail{
+  position: absolute;
+  top: 5px;
+  right: 230px;
+}
+.imges{
+  position: absolute;
+  top: 5px;
+  right: 170px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.lab{
+  position: absolute;
+  top: 5px;
+  right: 120px;
+}
+.app{
+  position: absolute;
+  top: 5px;
+  right: 70px;
+}
+.pic img{
+  width: 30px;
+  border-radius: 50%;
+}
+.pic{
+  position: absolute;
+  top: 5px;
+  right: 20px;
+}
+.search2{
+  background-color: bisque;
+  width: 55%;
+  margin: auto;
+  border-radius: 20px;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+
+
+
+
+
+
